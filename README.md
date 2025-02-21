@@ -1,6 +1,6 @@
 # 🚀 Auto Macro
 
-![Auto Macro Logo](https://via.placeholder.com/150)
+![Auto Macro Logo](https://github.com/msalemad/auto-macro/media/robot-chatbot-head.jpg)
 
 ---
 
@@ -36,7 +36,7 @@
 
 1. **Clonar el repositorio**:
    ```sh
-   git clone https://github.com/usuario/auto-macro.git
+   git clone https://github.com/msalemad/auto-macro.git
    ```
 2. **Navegar al directorio del proyecto**:
    ```sh
@@ -44,7 +44,7 @@
    ```
 3. **Instalar dependencias**:
    ```sh
-   npm install
+   pip install -r requirements.txt
    ```
 
 ---
@@ -53,7 +53,7 @@
 
 1. **Iniciar la aplicación**:
    ```sh
-   npm start
+   python main.py
    ```
 2. **Crear una nueva macro**:
    - Navega a la sección de creación de macros.
@@ -95,7 +95,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 ## 📞 Contacto
 
 - **Email**: [contacto@automacro.com](mailto:contacto@automacro.com)
-- **GitHub**: [https://github.com/usuario/auto-macro](https://github.com/usuario/auto-macro)
+- **GitHub**: [https://github.com/msalemad/auto-macro](https://github.com/msalemad/auto-macro)
 
 ---
 
