@@ -1,6 +1,6 @@
 # 🚀 Auto Macro
 
-![Auto Macro Logo](https://github.com/msalemad/auto-macro/media/robot-chatbot-head.jpg)
+![Auto Macro Logo](https://github.com/msalemad/auto-macro/blob/master/media/robot-chatbot-head.jpg)
 
 ---
 
